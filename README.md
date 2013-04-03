@@ -1,4 +1,4 @@
 mod_redis_cache
 ===============
 
-Apache httpd 2.X cache module using Redis NoSQL server
+An Apache httpd 2.X cache module using Redis NoSQL server.
